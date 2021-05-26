@@ -1,0 +1,32 @@
+name: "Manual Test"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+          
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Run main.py
+        env:
+          SECRET_TEXT: ${{ secrets.SECRET_TEXT }}
+        run: |-
+          python3 ./main.py
+          cat README.md
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email ""
+          git config --global user.name "derrickdemo"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
