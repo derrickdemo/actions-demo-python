@@ -1,7 +1,9 @@
 import pathlib
 import re
 import os
-from datetime import datetime 
+from datetime import datetime
+import pyjokes
+
 
 if os.environ.get('SECRET_TEXT') is None:
   SECRET_TEXT = "SECRET_TEXT is not set"
@@ -27,4 +29,7 @@ if __name__ == "__main__":
   dt_string = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
   new_text = dt_string + " : " + SECRET_TEXT
   rewritten = replace_chunk(readme_contents, "replace-with-date", new_text)
+  
+  joke = pyjokes.get_joke()
+  rewritten = replace_chunk(rewritten, "replace-with-joke", joke)
   readme.open("w").write(rewritten)
