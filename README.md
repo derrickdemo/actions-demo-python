@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-07/06/2021 21:04:25 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+08/06/2021 18:30:19 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+To understand recursion you must first understand recursion.
 <!-- replace-with-joke ends -->
