@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/06/2021 16:24:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/06/2021 16:22:39 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What did the Java code say to the C code? A: You've got no class.
+QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
 <!-- replace-with-joke ends -->
