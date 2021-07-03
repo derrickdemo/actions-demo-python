@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-02/07/2021 16:22:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+03/07/2021 16:19:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.
+A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
 <!-- replace-with-joke ends -->
