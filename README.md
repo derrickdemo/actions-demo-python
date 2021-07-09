@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-08/07/2021 16:25:45 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+09/07/2021 16:20:36 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+Number of days since I have encountered an array index error: -1.
 <!-- replace-with-joke ends -->
