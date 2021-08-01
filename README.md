@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/07/2021 16:19:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/08/2021 16:19:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+What did the Java code say to the C code? A: You've got no class.
 <!-- replace-with-joke ends -->
