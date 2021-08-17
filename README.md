@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-16/08/2021 16:21:47 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+17/08/2021 16:20:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
+A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
 <!-- replace-with-joke ends -->
