@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/08/2021 16:20:16 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/08/2021 16:21:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.
+Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
 <!-- replace-with-joke ends -->
