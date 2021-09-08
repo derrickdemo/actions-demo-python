@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-07/09/2021 16:20:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+08/09/2021 16:20:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Unix is user friendly. It's just very particular about who its friends are.
+In C we had to code our own bugs. In C++ we can inherit them.
 <!-- replace-with-joke ends -->
