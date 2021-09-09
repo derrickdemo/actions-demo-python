@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-08/09/2021 16:20:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+09/09/2021 16:20:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-In C we had to code our own bugs. In C++ we can inherit them.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
 <!-- replace-with-joke ends -->
