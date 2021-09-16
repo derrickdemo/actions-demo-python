@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-15/09/2021 16:17:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+16/09/2021 16:19:49 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
+Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
 <!-- replace-with-joke ends -->
