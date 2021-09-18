@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/09/2021 16:20:07 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/09/2021 16:18:59 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand binary and those who don't.
+How many Prolog programmers does it take to change a lightbulb? false.
 <!-- replace-with-joke ends -->
