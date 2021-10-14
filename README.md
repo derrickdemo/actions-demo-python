@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-13/10/2021 16:20:19 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+14/10/2021 16:20:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
+A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
 <!-- replace-with-joke ends -->
