@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-09/11/2021 16:22:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+10/11/2021 16:21:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-When your hammer is C++, everything begins to look like a thumb.
+Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?
 <!-- replace-with-joke ends -->
