@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/11/2021 16:19:37 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/11/2021 16:20:57 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are two ways to write error-free programs; only the third one works.
+A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
 <!-- replace-with-joke ends -->
