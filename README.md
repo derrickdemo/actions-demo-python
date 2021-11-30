@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-29/11/2021 16:22:18 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+30/11/2021 16:21:21 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.
+Why do sin and tan work? Just cos.
 <!-- replace-with-joke ends -->
