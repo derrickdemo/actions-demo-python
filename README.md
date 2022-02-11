@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/02/2022 16:19:45 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/02/2022 16:18:21 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
 <!-- replace-with-joke ends -->
