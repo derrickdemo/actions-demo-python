@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-13/03/2022 16:20:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+14/03/2022 16:21:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
+What do you call eight hobbits? A hobbyte.
 <!-- replace-with-joke ends -->
