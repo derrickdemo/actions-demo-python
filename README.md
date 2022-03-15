@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-14/03/2022 16:21:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+15/03/2022 16:21:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call eight hobbits? A hobbyte.
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
 <!-- replace-with-joke ends -->
