@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-05/05/2022 16:22:09 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+06/05/2022 16:23:23 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why are you always smiling? That's just my... regular expression.
+I would tell you a joke about UDP, but you would never get it.
 <!-- replace-with-joke ends -->
