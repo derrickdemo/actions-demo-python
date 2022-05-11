@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/05/2022 16:26:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/05/2022 16:23:46 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
 <!-- replace-with-joke ends -->
