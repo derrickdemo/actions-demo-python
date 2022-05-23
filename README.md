@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-22/05/2022 16:21:09 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+23/05/2022 16:22:44 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.
+In C we had to code our own bugs. In C++ we can inherit them.
 <!-- replace-with-joke ends -->
