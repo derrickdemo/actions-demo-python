@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-11/07/2022 16:24:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+12/07/2022 16:21:48 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 <!-- replace-with-joke ends -->
