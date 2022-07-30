@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-29/07/2022 16:23:53 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+30/07/2022 16:20:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
 <!-- replace-with-joke ends -->
