@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/08/2022 16:22:37 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/08/2022 16:21:07 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why don't jokes work in octal? Because 7 10 11.
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
 <!-- replace-with-joke ends -->
