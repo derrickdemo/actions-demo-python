@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/08/2022 16:21:49 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/08/2022 16:20:06 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-To understand recursion you must first understand recursion.
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
 <!-- replace-with-joke ends -->
