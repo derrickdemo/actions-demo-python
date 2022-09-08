@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-07/09/2022 16:22:29 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+08/09/2022 16:23:36 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.
+.NET was named .NET so that it wouldn't show up in a Unix directory listing.
 <!-- replace-with-joke ends -->
