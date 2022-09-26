@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/09/2022 16:22:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/09/2022 16:25:59 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
 <!-- replace-with-joke ends -->
