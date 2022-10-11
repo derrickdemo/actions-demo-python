@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/10/2022 16:29:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/10/2022 16:29:31 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What's the object-oriented way to become wealthy? Inheritance.
+When your hammer is C++, everything begins to look like a thumb.
 <!-- replace-with-joke ends -->
