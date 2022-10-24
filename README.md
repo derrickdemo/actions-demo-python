@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-23/10/2022 16:26:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+24/10/2022 16:30:43 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
 <!-- replace-with-joke ends -->
