@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-26/10/2022 16:24:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+27/10/2022 16:26:16 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with glee, only to see the announcement for Python 4.4.
 <!-- replace-with-joke ends -->
