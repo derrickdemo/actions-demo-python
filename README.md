@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/10/2022 16:22:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+31/10/2022 16:26:15 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Old C programmers don't die, they're just cast into void.
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
 <!-- replace-with-joke ends -->
