@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/11/2022 16:22:41 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/11/2022 16:22:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+A good programmer is someone who always looks both ways before crossing a one-way street.
 <!-- replace-with-joke ends -->
