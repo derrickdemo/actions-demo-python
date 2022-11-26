@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/11/2022 16:19:19 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/11/2022 16:18:47 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+Pirates go 'arg!', computer pirates go 'argv!'
 <!-- replace-with-joke ends -->
