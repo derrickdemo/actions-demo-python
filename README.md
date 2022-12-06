@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-05/12/2022 16:19:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+06/12/2022 16:19:33 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
 <!-- replace-with-joke ends -->
