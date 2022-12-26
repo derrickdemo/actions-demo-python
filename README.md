@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/12/2022 16:16:53 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/12/2022 16:17:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Unix is user friendly. It's just very particular about who its friends are.
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
 <!-- replace-with-joke ends -->
