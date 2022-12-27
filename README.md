@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-26/12/2022 16:17:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+27/12/2022 16:17:38 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
+Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
 <!-- replace-with-joke ends -->
