@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/12/2022 16:16:44 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+31/12/2022 16:16:43 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Ubuntu users are apt to get this joke.
+Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.
 <!-- replace-with-joke ends -->
