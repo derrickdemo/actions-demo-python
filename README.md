@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/02/2023 16:18:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/02/2023 16:17:20 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?
 <!-- replace-with-joke ends -->
