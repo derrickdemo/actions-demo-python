@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-19/03/2023 16:16:37 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+20/03/2023 16:19:31 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why do Java programmers have to wear glasses? Because they don't see sharp.
+How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!
 <!-- replace-with-joke ends -->
