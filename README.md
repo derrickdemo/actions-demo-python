@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-27/04/2023 16:14:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+28/04/2023 16:15:31 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Real programmers can write assembly code in any language.
+Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
 <!-- replace-with-joke ends -->
