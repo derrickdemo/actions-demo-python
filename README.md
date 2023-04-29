@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-28/04/2023 16:15:31 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+29/04/2023 16:14:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
+What's the object-oriented way to become wealthy? Inheritance.
 <!-- replace-with-joke ends -->
