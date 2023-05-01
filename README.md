@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/04/2023 16:14:41 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/05/2023 16:16:33 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand hexadecimal and 15 others.
+Two bytes meet. The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'
 <!-- replace-with-joke ends -->
