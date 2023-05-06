@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-05/05/2023 16:15:42 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+06/05/2023 16:14:42 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A good programmer is someone who always looks both ways before crossing a one-way street.
+!false, (It's funny because it's true)
 <!-- replace-with-joke ends -->
