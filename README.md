@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-13/05/2023 16:14:17 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+14/05/2023 16:14:14 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many Prolog programmers does it take to change a lightbulb? false.
+.NET was named .NET so that it wouldn't show up in a Unix directory listing.
 <!-- replace-with-joke ends -->
