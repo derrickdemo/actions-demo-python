@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/05/2023 16:15:36 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/05/2023 16:15:23 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
+Unix is user friendly. It's just very particular about who its friends are.
 <!-- replace-with-joke ends -->
