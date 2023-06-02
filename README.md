@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/06/2023 16:16:04 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/06/2023 16:15:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why do sin and tan work? Just cos.
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
 <!-- replace-with-joke ends -->
