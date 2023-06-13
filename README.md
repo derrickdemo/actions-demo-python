@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-12/06/2023 16:15:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+13/06/2023 16:15:42 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How come there is no obfuscated Perl contest? Because everyone would win.
+Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
 <!-- replace-with-joke ends -->
