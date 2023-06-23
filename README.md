@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-22/06/2023 16:15:29 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+23/06/2023 16:17:45 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I would tell you a joke about UDP, but you would never get it.
+A programmer crashes a car at the bottom of a hill, a bystander asks what happened, he says "No idea. Let's push it back up and try again".
 <!-- replace-with-joke ends -->
