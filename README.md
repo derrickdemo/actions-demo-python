@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/06/2023 16:17:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/06/2023 16:16:50 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-To understand recursion you must first understand recursion.
+Java: Write once, run away.
 <!-- replace-with-joke ends -->
