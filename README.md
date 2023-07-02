@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/07/2023 16:16:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/07/2023 16:15:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Pirates go 'arg!', computer pirates go 'argv!'
+Number of days since I have encountered an array index error: -1.
 <!-- replace-with-joke ends -->
