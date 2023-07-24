@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-23/07/2023 16:14:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+24/07/2023 16:15:52 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What's the object-oriented way to become wealthy? Inheritance.
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
 <!-- replace-with-joke ends -->
