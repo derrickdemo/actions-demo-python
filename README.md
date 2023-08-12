@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-11/08/2023 16:13:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+12/08/2023 16:13:07 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are two ways to write error-free programs; only the third one works.
+Ubuntu users are apt to get this joke.
 <!-- replace-with-joke ends -->
