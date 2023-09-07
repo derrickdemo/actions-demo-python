@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-06/09/2023 16:15:55 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+07/09/2023 16:15:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-ASCII stupid question, get a stupid ANSI.
+Obfuscated Reality Mappers (ORMs) can be useful database tools.
 <!-- replace-with-joke ends -->
