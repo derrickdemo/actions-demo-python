@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-22/09/2023 16:15:18 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+23/09/2023 16:13:32 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-When your hammer is C++, everything begins to look like a thumb.
+I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
 <!-- replace-with-joke ends -->
