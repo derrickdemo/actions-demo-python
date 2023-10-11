@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/10/2023 16:16:03 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/10/2023 16:16:07 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
 <!-- replace-with-joke ends -->
