@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/10/2023 16:16:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/10/2023 16:16:15 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I would tell you a joke about UDP, but you would never get it.
+Sympathy for the Devil is really just about being nice to QAs.
 <!-- replace-with-joke ends -->
