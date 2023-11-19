@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-18/11/2023 16:14:32 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+19/11/2023 16:14:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
 <!-- replace-with-joke ends -->
