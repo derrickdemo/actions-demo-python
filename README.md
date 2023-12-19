@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-18/12/2023 16:16:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+19/12/2023 16:14:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
+A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.
 <!-- replace-with-joke ends -->
