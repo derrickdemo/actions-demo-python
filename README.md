@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/01/2024 16:15:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+31/01/2024 16:14:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+QAs consist of 55% water, 30% blood and 15% Jira tickets.
 <!-- replace-with-joke ends -->
