@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-02/02/2024 16:13:32 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+03/02/2024 16:15:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+Hardware: The part of a computer that you can kick.
 <!-- replace-with-joke ends -->
