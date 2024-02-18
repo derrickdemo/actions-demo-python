@@ -1,7 +1,7 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/02/2024 16:14:34 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/02/2024 16:14:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
