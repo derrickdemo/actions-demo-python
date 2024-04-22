@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-21/04/2024 16:15:15 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+22/04/2024 16:15:51 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+How many Prolog programmers does it take to change a lightbulb? false.
 <!-- replace-with-joke ends -->
