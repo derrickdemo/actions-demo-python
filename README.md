@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/05/2024 16:15:20 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/05/2024 16:14:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Ubuntu users are apt to get this joke.
+Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
 <!-- replace-with-joke ends -->
