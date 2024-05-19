@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-18/05/2024 16:14:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+19/05/2024 16:15:28 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
+Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with glee, only to see the announcement for Python 4.4.
 <!-- replace-with-joke ends -->
