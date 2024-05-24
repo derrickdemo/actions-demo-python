@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-23/05/2024 16:18:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+24/05/2024 16:15:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Ubuntu users are apt to get this joke.
+Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
 <!-- replace-with-joke ends -->
