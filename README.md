@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/07/2024 16:17:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/07/2024 16:16:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+Obfuscated Reality Mappers (ORMs) can be useful database tools.
 <!-- replace-with-joke ends -->
