@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-26/07/2024 16:18:03 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+27/07/2024 16:16:45 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
 <!-- replace-with-joke ends -->
