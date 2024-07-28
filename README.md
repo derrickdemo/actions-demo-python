@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-27/07/2024 16:16:45 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+28/07/2024 16:17:22 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+.NET was named .NET so that it wouldn't show up in a Unix directory listing.
 <!-- replace-with-joke ends -->
