@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/08/2024 16:17:55 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/08/2024 16:17:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Sympathy for the Devil is really just about being nice to QAs.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
 <!-- replace-with-joke ends -->
