@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-15/08/2024 16:18:17 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+16/08/2024 16:19:22 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
 <!-- replace-with-joke ends -->
