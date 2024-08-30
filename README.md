@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-29/08/2024 16:18:15 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+30/08/2024 16:17:09 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+How do you know whether a person is a Vim user? Don't worry, they'll tell you.
 <!-- replace-with-joke ends -->
