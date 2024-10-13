@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-12/10/2024 16:18:38 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+13/10/2024 16:17:53 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you get when you cross a cat and a dog? Cat dog sin theta.
+When your hammer is C++, everything begins to look like a thumb.
 <!-- replace-with-joke ends -->
