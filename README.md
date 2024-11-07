@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-06/11/2024 16:20:17 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+07/11/2024 16:19:16 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!
+Number of days since I have encountered an array index error: -1.
 <!-- replace-with-joke ends -->
