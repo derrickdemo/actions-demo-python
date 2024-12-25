@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/12/2024 16:18:20 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/12/2024 16:18:23 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Obfuscated Reality Mappers (ORMs) can be useful database tools.
+Why do Java programmers have to wear glasses? Because they don't see sharp.
 <!-- replace-with-joke ends -->
