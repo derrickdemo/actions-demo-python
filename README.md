@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/12/2024 16:18:39 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+31/12/2024 16:18:16 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 <!-- replace-with-joke ends -->
