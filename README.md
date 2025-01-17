@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-16/01/2025 16:18:38 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+17/01/2025 16:18:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many Prolog programmers does it take to change a lightbulb? false.
+Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
 <!-- replace-with-joke ends -->
