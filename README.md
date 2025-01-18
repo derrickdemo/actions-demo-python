@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/01/2025 16:18:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/01/2025 16:16:31 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.
+There are 10 types of people: those who understand binary and those who don't.
 <!-- replace-with-joke ends -->
