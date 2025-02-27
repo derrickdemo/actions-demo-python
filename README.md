@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-26/02/2025 16:20:33 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+27/02/2025 16:21:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+The best thing about a Boolean is even if you are wrong, you are only off by a bit.
 <!-- replace-with-joke ends -->
