@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-11/03/2025 16:22:03 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+12/03/2025 16:21:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
 <!-- replace-with-joke ends -->
