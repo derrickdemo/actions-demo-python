@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-14/03/2025 16:20:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+15/03/2025 16:17:55 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+The C language combines all the power of assembly language with all the ease-of-use of assembly language.
 <!-- replace-with-joke ends -->
