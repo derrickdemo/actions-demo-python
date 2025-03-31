@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/03/2025 16:18:52 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+31/03/2025 16:21:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-In C we had to code our own bugs. In C++ we can inherit them.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 <!-- replace-with-joke ends -->
