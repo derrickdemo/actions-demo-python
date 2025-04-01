@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/03/2025 16:21:13 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/04/2025 16:20:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
 <!-- replace-with-joke ends -->
