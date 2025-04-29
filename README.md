@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-28/04/2025 16:20:47 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+29/04/2025 16:21:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why do Java programmers have to wear glasses? Because they don't see sharp.
+Pirates go 'arg!', computer pirates go 'argv!'
 <!-- replace-with-joke ends -->
