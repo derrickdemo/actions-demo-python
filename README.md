@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-29/04/2025 16:21:26 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+30/04/2025 16:21:34 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Pirates go 'arg!', computer pirates go 'argv!'
+Why did Microsoft name their search engine BING? Because It's Not Google.
 <!-- replace-with-joke ends -->
