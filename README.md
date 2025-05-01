@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/04/2025 16:21:34 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/05/2025 16:21:50 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why did Microsoft name their search engine BING? Because It's Not Google.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
 <!-- replace-with-joke ends -->
