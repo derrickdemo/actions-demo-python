@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-02/05/2025 16:21:18 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+03/05/2025 16:19:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Hardware: The part of a computer that you can kick.
+Why did Microsoft name their search engine BING? Because It's Not Google.
 <!-- replace-with-joke ends -->
