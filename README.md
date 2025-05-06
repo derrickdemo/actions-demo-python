@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-05/05/2025 16:22:48 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+06/05/2025 16:20:20 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+Why do Java programmers have to wear glasses? Because they don't see sharp.
 <!-- replace-with-joke ends -->
