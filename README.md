@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/06/2025 16:23:42 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/06/2025 16:24:01 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why do sin and tan work? Just cos.
+Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
 <!-- replace-with-joke ends -->
