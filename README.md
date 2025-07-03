@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-02/07/2025 16:23:03 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+03/07/2025 16:22:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Java: Write once, run away.
+How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!
 <!-- replace-with-joke ends -->
