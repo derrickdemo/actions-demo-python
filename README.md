@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-21/07/2025 16:24:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+22/07/2025 16:25:03 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+Obfuscated Reality Mappers (ORMs) can be useful database tools.
 <!-- replace-with-joke ends -->
