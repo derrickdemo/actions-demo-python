@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/08/2025 16:22:01 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/08/2025 16:25:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
 <!-- replace-with-joke ends -->
