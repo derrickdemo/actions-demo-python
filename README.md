@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-13/08/2025 16:19:22 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+14/08/2025 16:25:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A good programmer is someone who always looks both ways before crossing a one-way street.
+There are 2 types of people: those who can extrapolate from incomplete data sets...
 <!-- replace-with-joke ends -->
