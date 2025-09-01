@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/08/2025 16:19:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/09/2025 16:20:29 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+Why do Java programmers have to wear glasses? Because they don't see sharp.
 <!-- replace-with-joke ends -->
