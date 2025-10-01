@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-30/09/2025 16:22:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/10/2025 16:21:40 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
+In C we had to code our own bugs. In C++ we can inherit them.
 <!-- replace-with-joke ends -->
