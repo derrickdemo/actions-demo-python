@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-06/10/2025 16:21:01 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+07/10/2025 16:21:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many programmers does it take to change a lightbulb? None, they just make darkness a standard.
+Ubuntu users are apt to get this joke.
 <!-- replace-with-joke ends -->
