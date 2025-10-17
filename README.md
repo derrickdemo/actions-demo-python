@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-16/10/2025 16:22:59 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+17/10/2025 16:21:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-In C we had to code our own bugs. In C++ we can inherit them.
+Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
 <!-- replace-with-joke ends -->
