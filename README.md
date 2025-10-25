@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/10/2025 16:21:56 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/10/2025 16:19:35 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
 <!-- replace-with-joke ends -->
