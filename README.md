@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/10/2025 16:22:34 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/11/2025 16:18:51 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
+There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
 <!-- replace-with-joke ends -->
