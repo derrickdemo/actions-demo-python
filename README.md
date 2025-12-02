@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/12/2025 16:27:10 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/12/2025 16:27:02 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Pirates go 'arg!', computer pirates go 'argv!'
+Why don't jokes work in octal? Because 7 10 11.
 <!-- replace-with-joke ends -->
