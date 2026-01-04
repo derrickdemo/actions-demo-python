@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-03/01/2026 16:23:14 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+04/01/2026 16:22:52 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'
+A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
 <!-- replace-with-joke ends -->
