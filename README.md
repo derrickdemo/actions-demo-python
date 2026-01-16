@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-15/01/2026 16:33:34 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+16/01/2026 16:27:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.
+I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
 <!-- replace-with-joke ends -->
