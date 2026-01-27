@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-26/01/2026 16:32:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+27/01/2026 16:29:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why did the QA cross the road? To ruin everyone's day.
+There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
 <!-- replace-with-joke ends -->
