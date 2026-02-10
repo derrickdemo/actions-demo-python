@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-08/02/2026 16:29:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+10/02/2026 17:00:48 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
 <!-- replace-with-joke ends -->
