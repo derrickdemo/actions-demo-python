@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/02/2026 16:54:59 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/02/2026 17:01:28 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What did the Java code say to the C code? A: You've got no class.
+Number of days since I have encountered an array index error: -1.
 <!-- replace-with-joke ends -->
