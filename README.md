@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-23/02/2026 16:55:06 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+24/02/2026 17:04:27 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call eight hobbits? A hobbyte.
+Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
 <!-- replace-with-joke ends -->
