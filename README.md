@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-28/02/2026 16:24:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/03/2026 16:26:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Number of days since I have encountered an array index error: -1.
+Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.
 <!-- replace-with-joke ends -->
