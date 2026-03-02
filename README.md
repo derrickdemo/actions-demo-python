@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-01/03/2026 16:26:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+02/03/2026 16:43:15 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
 <!-- replace-with-joke ends -->
