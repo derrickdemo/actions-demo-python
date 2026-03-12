@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-11/03/2026 16:50:42 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+12/03/2026 16:57:04 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How come there is no obfuscated Perl contest? Because everyone would win.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 <!-- replace-with-joke ends -->
