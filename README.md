@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/03/2026 17:02:05 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/03/2026 16:57:57 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
+Software developers like to solve problems. If there are no problems handily available, they will create their own.
 <!-- replace-with-joke ends -->
