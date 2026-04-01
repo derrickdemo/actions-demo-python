@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/03/2026 16:55:39 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/04/2026 16:53:07 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Obfuscated Reality Mappers (ORMs) can be useful database tools.
+What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
 <!-- replace-with-joke ends -->
