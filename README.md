@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-13/04/2026 17:01:43 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+14/04/2026 17:04:58 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Waiter: Would you like coffee or tea? Programmer: Yes.
+If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
 <!-- replace-with-joke ends -->
