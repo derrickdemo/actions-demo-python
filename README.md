@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-16/04/2026 17:12:29 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+17/04/2026 16:53:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Sympathy for the Devil is really just about being nice to QAs.
+There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
 <!-- replace-with-joke ends -->
