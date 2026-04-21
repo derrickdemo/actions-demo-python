@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-20/04/2026 17:01:52 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+21/04/2026 16:59:51 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-A programmer walks into a foo...
+What do you mean 911 is only for emergencies? I've got a merge conflict.
 <!-- replace-with-joke ends -->
