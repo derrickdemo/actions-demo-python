@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-21/04/2026 16:59:51 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+22/04/2026 16:58:36 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you mean 911 is only for emergencies? I've got a merge conflict.
+In C we had to code our own bugs. In C++ we can inherit them.
 <!-- replace-with-joke ends -->
