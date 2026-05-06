@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-05/05/2026 17:21:38 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+06/05/2026 17:27:44 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why did the programmer quit his job? Because he didn't get arrays.
+Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
 <!-- replace-with-joke ends -->
