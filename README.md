@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/05/2026 16:55:30 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/05/2026 17:59:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+Pirates go 'arg!', computer pirates go 'argv!'
 <!-- replace-with-joke ends -->
