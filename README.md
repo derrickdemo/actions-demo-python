@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-28/05/2026 18:34:35 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+29/05/2026 18:30:20 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
 <!-- replace-with-joke ends -->
