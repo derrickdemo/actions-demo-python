@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-21/06/2026 17:25:55 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+22/06/2026 19:24:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
+What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
 <!-- replace-with-joke ends -->
