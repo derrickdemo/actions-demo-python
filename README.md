@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-24/06/2026 17:52:37 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+25/06/2026 18:08:01 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are II types of people: Those who understand Roman Numerals and those who don't.
+Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
 <!-- replace-with-joke ends -->
