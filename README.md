@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-27/06/2026 17:08:12 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+28/06/2026 17:09:28 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-['hip', 'hip'] (hip hip array!)
+Why did Microsoft name their search engine BING? Because It's Not Google.
 <!-- replace-with-joke ends -->
