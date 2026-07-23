@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-22/07/2026 17:16:37 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+23/07/2026 17:20:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
+What's the object-oriented way to become wealthy? Inheritance.
 <!-- replace-with-joke ends -->
