@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-09/08/2026 16:32:24 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+10/08/2026 16:51:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What did the Java code say to the C code? A: You've got no class.
+Sympathy for the Devil is really just about being nice to QAs.
 <!-- replace-with-joke ends -->
