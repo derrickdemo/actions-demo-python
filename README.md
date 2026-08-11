@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/08/2026 16:51:54 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/08/2026 16:55:17 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Sympathy for the Devil is really just about being nice to QAs.
+What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
 <!-- replace-with-joke ends -->
