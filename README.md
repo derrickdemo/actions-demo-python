@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-11/08/2026 16:55:17 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+12/08/2026 16:54:22 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
 <!-- replace-with-joke ends -->
