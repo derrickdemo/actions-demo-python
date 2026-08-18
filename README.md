@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-17/08/2026 16:24:16 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+18/08/2026 16:28:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
 <!-- replace-with-joke ends -->
