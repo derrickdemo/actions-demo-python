@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-19/08/2026 16:28:38 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+20/08/2026 16:32:32 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.
+A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
 <!-- replace-with-joke ends -->
