@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-28/08/2026 00:44:48 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+29/08/2026 00:24:04 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+Old C programmers don't die, they're just cast into void.
 <!-- replace-with-joke ends -->
