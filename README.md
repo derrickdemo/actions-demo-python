@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-31/08/2026 21:18:00 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+01/09/2026 19:12:08 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
 <!-- replace-with-joke ends -->
