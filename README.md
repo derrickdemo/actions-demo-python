@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-25/09/2026 19:49:51 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+26/09/2026 19:00:55 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
 <!-- replace-with-joke ends -->
