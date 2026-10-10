@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-09/10/2026 20:32:59 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+10/10/2026 19:46:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.
+Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
 <!-- replace-with-joke ends -->
