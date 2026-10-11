@@ -1,9 +1,9 @@
 # Example
 
 <!-- replace-with-date starts -->
-10/10/2026 19:46:11 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+11/10/2026 19:54:57 : 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
 <!-- replace-with-date ends -->
 
 <!-- replace-with-joke starts -->
-Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
+['hip', 'hip'] (hip hip array!)
 <!-- replace-with-joke ends -->
